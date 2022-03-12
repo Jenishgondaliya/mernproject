@@ -104,7 +104,7 @@ app.post("/login",async(req,res)=>{
     } 
     else 
     {
-        res.send("invalid  details")
+        res.send("invalid  ls")
     }
        
    } catch (error) {
